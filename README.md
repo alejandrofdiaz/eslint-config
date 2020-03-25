@@ -1,0 +1,1 @@
+# Alejandro Frías Personal ESLint config
