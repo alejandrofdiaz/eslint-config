@@ -1,5 +1,5 @@
 {
-  "name": "@alejandrofdiaz/eslint-config",
+  "name": "afrias-eslint-config",
   "version": "0.0.3",
   "description": "Personal eslint config",
   "main": "index.js",
