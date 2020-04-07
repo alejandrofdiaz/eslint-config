@@ -18,9 +18,6 @@ module.exports = {
     'arrow-body-style': [
       'error',
       'as-needed',
-      {
-        requireReturnForObjectLiteral: false,
-      },
     ],
 
     // require parens in arrow function arguments
