@@ -2,7 +2,7 @@
   "extends": ["config:base", "group:all", "schedule:weekends"],
   "packageRules": [
     {
-      "updateTypes": ["minor", "patch", "pin"],
+      "updateTypes": ["major", "minor", "patch", "pin"],
       "automerge": true
     }
   ],
