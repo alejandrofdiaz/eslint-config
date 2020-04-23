@@ -6,5 +6,5 @@
       "automerge": true
     }
   ],
-  "bumpVersion": "minor"
+  "bumpVersion": "patch"
 }
